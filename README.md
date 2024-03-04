@@ -1,4 +1,4 @@
-## Graph Network:
+## Blockchain_v1:
 
 O projeto da blockchain construída do zero em Rust é uma implementação completa de uma blockchain descentralizada, desde o protocolo de consenso até a execução de contratos inteligentes. Desenvolvida em Rust, esta blockchain é projetada para ser eficiente, segura e escalável, oferecendo um ambiente confiável para transações e contratos autônomos.
 
